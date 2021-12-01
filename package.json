@@ -14,7 +14,7 @@
   },
   "husky": {
     "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS -g './commitlint.js'"
+      "prepare-commit-msg": "commitlint -E HUSKY_GIT_PARAMS -g './commitlint.js'"
     }
   },
   "dependencies": {
