@@ -1,8 +1,8 @@
 module.exports = {
   // Type change
   types: [
-    { value: 'feat', name: 'feat:      Adding new feature' },
-    { value: 'fix', name: 'fix:       Bug fix' },
+    { value: 'feat', name: 'feat:      Adding new feature (MINOR version)' },
+    { value: 'fix', name: 'fix:       Bug fix (PATCH version)' },
     { value: 'test', name: 'test:      Adding tests or change tests' },
     {
       value: 'refactor',
@@ -36,7 +36,7 @@ module.exports = {
     subject: 'Summary of changes:\n',
     body: 'Detailed description of changes:\n',
     breaking: 'Description BREAKING CHANGES (only MAJOR version):\n',
-    footer: 'Issue number  (Example: #101 #102):\n',
+    footer: 'Issue number  (Example: LK-101 LK-102):\n',
     confirmCommit: 'Save the resulting commit?'
   },
 
