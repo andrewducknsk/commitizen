@@ -2,7 +2,8 @@
   "devDependencies": {
     "commitizen": "^4.2.4",
     "cz-customizable": "6.3.0",
-    "husky": "^7.0.4"
+    "husky": "^7.0.4",
+    "@commitlint/cli": "^15.0.0"
   },
   "config": {
     "commitizen": {
@@ -14,10 +15,7 @@
   },
   "husky": {
     "hooks": {
-      "prepare-commit-msg": "commitlint -E HUSKY_GIT_PARAMS -g './commitlint.js'"
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS -g './commitlint.js'"
     }
-  },
-  "dependencies": {
-    "@commitlint/cli": "^15.0.0"
   }
 }
