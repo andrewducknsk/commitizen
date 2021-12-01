@@ -13,13 +13,8 @@
       "config": "./config/git/commitizen.config.js"
     }
   },
-  "husky": {
-    "hooks": {
-      "commit-msg": "yarn run commit-lint"
-    }
-  },
   "scripts": {
-    "commit-lint": "commitlint -g './config/git/commitlint.config.js'",
+    "commit-lint": "commitlint --edit --config='./config/git/commitlint.config.js'",
     "prepare": "husky install"
   }
 }
