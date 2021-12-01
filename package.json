@@ -15,7 +15,7 @@
   },
   "husky": {
     "hooks": {
-      "commit-msg": "commitlint -g './config/git/commitlint.config.js'"
+      "commit-msg": "commitlint -g='./config/git/commitlint.config.js'"
     }
   },
   "scripts": {
