@@ -15,10 +15,11 @@
   },
   "husky": {
     "hooks": {
-      "commit-msg": "commitlint -g='./config/git/commitlint.config.js'"
+      "commit-msg": "yarn run commit-lint"
     }
   },
   "scripts": {
+    "commit-lint": "commitlint -g './config/git/commitlint.config.js'",
     "prepare": "husky install"
   }
 }
