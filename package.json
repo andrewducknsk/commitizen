@@ -17,5 +17,8 @@
     "hooks": {
       "commit-msg": "commitlint -g './config/git/commitlint.config.js' --print-config"
     }
+  },
+  "scripts": {
+    "prepare": "husky install"
   }
 }
