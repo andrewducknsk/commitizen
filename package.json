@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
     "commitizen": "^4.2.4",
