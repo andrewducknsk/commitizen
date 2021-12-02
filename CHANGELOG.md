@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/andrewducknsk/commitizen/compare/v3.0.0...v4.0.0) (2021-12-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* **index:** global update index.html
+
+Meta info: LK-556677
+
+### Features
+
+* **index:** update index.html ([ab2ee69](https://github.com/andrewducknsk/commitizen/commit/ab2ee6907e3793c4f8992f257e217965fafdbcb6))
+
 ## [3.0.0](https://github.com/andrewducknsk/commitizen/compare/v2.0.0...v3.0.0) (2021-12-02)
 
 
