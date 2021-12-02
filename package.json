@@ -1,11 +1,12 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
     "commitizen": "^4.2.4",
     "conventional-changelog-cli": "^2.1.1",
     "cz-customizable": "6.3.0",
-    "husky": "^7.0.4"
+    "husky": "^7.0.4",
+    "standard-changelog": "^2.0.27"
   },
   "config": {
     "commitizen": {
