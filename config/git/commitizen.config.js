@@ -16,13 +16,6 @@ module.exports = {
     },
     { value: 'changelog', name: 'changelog: Add / update / changelog' },
     { value: 'release', name: 'release:   New version' },
-    {
-      value: 'style',
-      name:
-          'style:     Changes that do not affect the meaning of the code',
-    },
-    { value: 'draft', name: 'draft:     Work in progress' },
-    { value: 'revert', name: 'revert:    Revert to a commit' },
   ],
 
   // Скоуп изменений
