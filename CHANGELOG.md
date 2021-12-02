@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.0.1](https://github.com/andrewducknsk/commitizen/compare/v4.0.0...v4.0.1) (2021-12-02)
+
+
+### Refactoring
+
+* **config:** update .versionrc ([ae25c2f](https://github.com/andrewducknsk/commitizen/commit/ae25c2fe532a516321f942c62b2d972c24b9eaf5))
+
 ## [4.0.0](https://github.com/andrewducknsk/commitizen/compare/v3.0.0...v4.0.0) (2021-12-02)
 
 
