@@ -1,5 +1,5 @@
 module.exports = {
-  // Type change
+  // Тип коммита
   types: [
     { value: 'feat', name: 'feat:      Adding new feature (MINOR version)' },
     { value: 'fix', name: 'fix:       Bug fix (PATCH version)' },
@@ -25,10 +25,10 @@ module.exports = {
     { value: 'revert', name: 'revert:    Revert to a commit' },
   ],
 
-  // Scope change
+  // Скоуп изменений
   scopes: [{name: 'component'}, {name: 'global'}, {name: 'tokens'}],
 
-  // Step message
+  // Описание шагов
   messages: {
     type: 'Type of change:',
     scope: 'Scope of change (optional):',
@@ -40,7 +40,7 @@ module.exports = {
     confirmCommit: 'Save the resulting commit?'
   },
 
-  // options
+  // Доп опции
   allowBreakingChanges: ['feat', 'fix', 'refactor', 'test', 'docs', 'chore'],
   allowCustomScopes: true,
   footerPrefix: 'Meta info:',
