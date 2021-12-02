@@ -24,7 +24,7 @@ module.exports = {
     // Тип не может быть пустым
     "type-empty": [2, "never"],
 
-    "footer-empty": [2, 'always'],
+    "footer-empty": [2, 'never'],
 
     // Перечислим все возможные варианты коммитов
     "type-enum": [
