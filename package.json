@@ -6,7 +6,8 @@
     "conventional-changelog-cli": "^2.1.1",
     "cz-customizable": "6.3.0",
     "husky": "^7.0.4",
-    "standard-changelog": "^2.0.27"
+    "standard-changelog": "^2.0.27",
+    "standard-version": "^9.3.2"
   },
   "config": {
     "commitizen": {
