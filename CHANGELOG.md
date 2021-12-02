@@ -1,0 +1,16 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [1.1.0](https://github.com/andrewducknsk/commitizen/compare/v1.0.7...v1.1.0) (2021-12-02)
+
+
+### Features
+
+* **321:** 123 ([8fa239a](https://github.com/andrewducknsk/commitizen/commit/8fa239aab7206717a488e73c18727439db9de67c))
+
+
+### Bug Fixes
+
+* **index:** fix index.html ([c2ec742](https://github.com/andrewducknsk/commitizen/commit/c2ec742203c7965088c4b706206368193fc17697))
+* **index:** update index.html ([cd4b709](https://github.com/andrewducknsk/commitizen/commit/cd4b70947aa8a58169321ab22657d78ee71ad0d7))
