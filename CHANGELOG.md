@@ -1,4 +1,6 @@
 # Changelog
+### [4.1.1](https://github.com/andrewducknsk/commitizen/compare/v4.1.0...v4.1.1) (2021-12-03)
+
 ## [4.1.0](https://github.com/andrewducknsk/commitizen/compare/v4.0.2...v4.1.0) (2021-12-03)
 
 
