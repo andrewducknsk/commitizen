@@ -1,4 +1,11 @@
 # Changelog
+### [4.1.2](https://github.com/andrewducknsk/commitizen/compare/v4.1.0...v4.1.2) (2021-12-03)
+
+
+### Bug Fixes
+
+* **component:** a ([3c17db8](https://github.com/andrewducknsk/commitizen/commit/3c17db800099cead3777440c32677502b7c6099f))
+
 ### [4.1.1](https://github.com/andrewducknsk/commitizen/compare/v4.1.0...v4.1.1) (2021-12-03)
 
 ## [4.1.0](https://github.com/andrewducknsk/commitizen/compare/v4.0.2...v4.1.0) (2021-12-03)
