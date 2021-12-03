@@ -1,3 +1,10 @@
+# Changelog
+## [4.1.0](https://github.com/andrewducknsk/commitizen/compare/v4.0.2...v4.1.0) (2021-12-03)
+
+
+### Features
+
+* **component:** new index.html ([9b909ee](https://github.com/andrewducknsk/commitizen/commit/9b909ee90825fd2d254aa0901d5326befa0d22a8))
 
 ### [4.0.2](https://github.com/andrewducknsk/commitizen/compare/v4.0.1...v4.0.2) (2021-12-02)
 
