@@ -2,6 +2,7 @@
   "version": "4.1.4",
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
+    "auto-changelog": "^2.3.0",
     "commitizen": "^4.2.4",
     "cz-customizable": "6.3.0",
     "husky": "^7.0.4",
@@ -17,6 +18,7 @@
   },
   "scripts": {
     "commit-lint": "commitlint --edit --config='./config/git/commitlint.config.js'",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "changelog": "auto-changelog -p && git add CHANGELOG.md"
   }
 }
