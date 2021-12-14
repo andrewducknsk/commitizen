@@ -1,10 +1,16 @@
 {
   "header": "# Changelog",
   "types": [
-    {"type": "feat", "section": "Features"},
-    {"type": "fix", "section": "Bug Fixes"},
-    {"type": "refactor", "section": "Refactoring", "hidden": false},
-    {"type": "chore", "section": "Chore", "hidden": false}
+    { value: 'feat', "section": "Features" },
+    { value: 'fix', "section": "Bug Fixes" },
+    { value: 'test', "section": 'Test', "hidden": false },
+    {
+      value: 'refactor', "section": "Refactoring", "hidden": false },
+    { value: 'docs', "section": "Docs", "hidden": false },
+    {
+      value: 'chore',  "section": "Chore", "hidden": false },
+    { value: 'changelog',"section": "changelog", "hidden": false },
+    { value: 'release', "section": "release", "hidden": false }
   ],
   "releaseCommitMessageFormat": "release(global): {{currentTag}}"
 }
