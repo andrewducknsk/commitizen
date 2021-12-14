@@ -36,6 +36,6 @@ module.exports = {
   // Доп опции
   allowBreakingChanges: ['feat', 'fix', 'refactor', 'test', 'docs', 'chore'],
   allowCustomScopes: true,
-  footerPrefix: 'Meta info:',
+  footerPrefix: 'Closes:',
   subjectLimit: 100
 }
