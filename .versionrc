@@ -5,5 +5,5 @@
     {"type": "fix", "section": "Bug Fixes"},
     {"type": "refactor", "section": "Refactoring", "hidden": false}
   ],
-  "releaseCommitMessageFormat": "release(global): {{currentTag}} \n{{hash}} {{host}}"
+  "releaseCommitMessageFormat": "release(global): {{currentTag}}"
 }
