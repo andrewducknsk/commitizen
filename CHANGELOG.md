@@ -1,4 +1,18 @@
 # Changelog
+### [4.1.3](https://github.com/andrewducknsk/commitizen/compare/v4.1.2...v4.1.3) (2021-12-14)
+
+
+### Refactoring
+
+* **index:** refactor index.html ([a387c7e](https://github.com/andrewducknsk/commitizen/commit/a387c7e051c6b7e973a786a86885731274d7e402))
+
+## [4.1.3-.bump=true.0](https://github.com/andrewducknsk/commitizen/compare/v4.1.2...v4.1.3-.bump=true.0) (2021-12-14)
+
+
+### Refactoring
+
+* **index:** refactor index.html ([a387c7e](https://github.com/andrewducknsk/commitizen/commit/a387c7e051c6b7e973a786a86885731274d7e402))
+
 ### [4.1.2](https://github.com/andrewducknsk/commitizen/compare/v4.1.0...v4.1.2) (2021-12-03)
 
 
